@@ -23,3 +23,46 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+
+.cat1 {
+    background-image: linear-gradient(to right, orange 0%, lightsalmon 100%);
+}
+
+.cat2 {
+    background-image: linear-gradient(to right, #ff589B 0%, #ff136f 100%);
+}
+
+.cat3 {
+    background-image: linear-gradient(to right, rgb(92, 92, 245) 0%, blue 100%);
+}
+
+.cat1,
+.cat2,
+.cat3 {
+    padding: 10px 30px;
+    color: #fff;
+    border-radius: 10px;
+}
+
+.category img {
+    width: 125px;
+    height: auto;
+}
+
+.card {
+    border: none;
+    box-shadow: 2px 2px 7px gray;
+}
+
+#Subscribe {
+    height: 300px;
+}
+
+#Subscribe h6 {
+    color: gray;
+    font-weight: 100;
+}
+
+footer {
+    text-align: center;
+}
